@@ -25,5 +25,29 @@
         </value>
     </Operation>
 
-
+    <!-- be ranged -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Thrumbo"]</xpath>
+        <value>
+            <verbs>
+                <li>
+                    <verbClass>Verb_Shoot</verbClass>
+                    <accuracyTouch>0.66</accuracyTouch>
+                    <accuracyShort>0.77</accuracyShort>
+                    <accuracyMedium>0.66</accuracyMedium>
+                    <accuracyLong>0.54</accuracyLong>
+                    <hasStandardCommand>true</hasStandardCommand>
+                    <defaultProjectile>Bullet_MiniShotgun</defaultProjectile>
+                    <warmupTime>1</warmupTime>
+                    <noiseRadius>2</noiseRadius>
+                    <burstShotCount>1</burstShotCount>
+                    <ticksBetweenBurstShots>0</ticksBetweenBurstShots>
+                    <!--minRange>1</minRange-->
+                    <range>25.9</range>
+                    <soundCast>BulletImpact_Wood</soundCast>
+                    <soundCastTail>GunTail_Heavy</soundCastTail>
+                </li>
+            </verbs>
+        </value>
+    </Operation>
 </Patch>

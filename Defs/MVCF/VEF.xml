@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <MVCF.ModDef>
+        <defName>MV_THRUMBOO</defName>
+        <label>Magical Menagerie</label>
+        <description>None</description>
+        <ActivateFeatures>
+            <li>RangedAnimals</li>
+            <li>HediffVerbs</li>
+            <li>IntegratedToggle</li>
+        </ActivateFeatures>
+    </MVCF.ModDef>
+</Defs>
