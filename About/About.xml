@@ -19,6 +19,7 @@
 
     <loadAfter>
         <li>ludeon.rimworld</li>
+        <li>oskarpotocki.vanillafactionsexpanded.core</li>
     </loadAfter>
 
 </ModMetaData>
