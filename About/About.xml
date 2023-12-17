@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-    <!-- see. https://rimworldwiki.com/wiki/Modding_Tutorials/About.xml -->
+    <packageId>piet.rian.thromboo</packageId>
+
+    <name>Thromboo</name>
+
+    <author>piet-rian</author>
+
+    <description>Thromboo Repeat Thromboo</description>
+
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+
+    <modVersion>1.0</modVersion>
+
+    <url>https://github.com/piet-rian/Thrumboo</url>
+
+    <loadAfter>
+        <li>ludeon.rimworld</li>
+    </loadAfter>
 
 </ModMetaData>
