@@ -32,18 +32,19 @@
             <verbs>
                 <li>
                     <verbClass>Verb_Shoot</verbClass>
-                    <accuracyTouch>0.66</accuracyTouch>
-                    <accuracyShort>0.77</accuracyShort>
-                    <accuracyMedium>0.66</accuracyMedium>
-                    <accuracyLong>0.54</accuracyLong>
+                    <accuracyTouch>0.77</accuracyTouch>
+                    <accuracyShort>0.88</accuracyShort>
+                    <accuracyMedium>0.77</accuracyMedium>
+                    <accuracyLong>0.44</accuracyLong>
                     <hasStandardCommand>true</hasStandardCommand>
-                    <defaultProjectile>Bullet_MiniShotgun</defaultProjectile>
-                    <warmupTime>1</warmupTime>
-                    <noiseRadius>2</noiseRadius>
+                    <defaultProjectile>Bullet_thrumboo_star</defaultProjectile>
+                    <warmupTime>3.14</warmupTime>
+                    <noiseRadius>1</noiseRadius>
                     <burstShotCount>1</burstShotCount>
                     <ticksBetweenBurstShots>0</ticksBetweenBurstShots>
-                    <!--minRange>1</minRange-->
-                    <range>25.9</range>
+                    <minRange>7.9</minRange>
+                    <range>29.9</range>
+                    <forcedMissRadius>0.9</forcedMissRadius>
                     <soundCast>BulletImpact_Wood</soundCast>
                     <soundCastTail>GunTail_Heavy</soundCastTail>
                 </li>
