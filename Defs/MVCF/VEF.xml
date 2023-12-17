@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+    <!-- 
+        Vanilla Expanded Framework を使って遠距離攻撃させるための記述 
+        see. https://github.com/Vanilla-Expanded/VanillaExpandedFramework/wiki/Multi-Verb-Combat-Framework
+    -->
     <MVCF.ModDef>
         <defName>MV_THRUMBOO</defName>
         <label>Magical Menagerie</label>
