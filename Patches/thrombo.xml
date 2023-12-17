@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- be packed animal -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName = "Thrumbo"]/race</xpath>
+        <value>
+            <packAnimal>true</packAnimal>
+        </value>
+    </Operation>
+
+    <!-- be clean -->
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="Thrumbo"]/statBases/FilthRate</xpath>
+        <value>
+            <FilthRate>1</FilthRate>
+        </value>
+    </Operation>
+
+
+    <!-- be wet -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Thrumbo"]/statBases</xpath>
+        <value>
+            <Flammability>0.3</Flammability>
+        </value>
+    </Operation>
+
+
+</Patch>
