@@ -38,7 +38,7 @@
                     <accuracyLong>0.44</accuracyLong>
                     <hasStandardCommand>true</hasStandardCommand>
                     <defaultProjectile>Bullet_thrumboo_star</defaultProjectile>
-                    <warmupTime>3.14</warmupTime>
+                    <warmupTime>5.11</warmupTime>
                     <noiseRadius>1</noiseRadius>
                     <burstShotCount>1</burstShotCount>
                     <ticksBetweenBurstShots>0</ticksBetweenBurstShots>
