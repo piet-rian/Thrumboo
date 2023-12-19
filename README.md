@@ -22,26 +22,14 @@
 
 ## CONFLICT(競合・衝突)
 
-- [Cleaner Thrumbos 1.4](https://steamcommunity.com/sharedfiles/filedetails/?id=2932159750)
-- [Thrumbo Husbandry](https://steamcommunity.com/sharedfiles/filedetails/?id=2208985736)
-- [Thrumbo Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=859466666)
-  - 本modと同じ内容の変更が含まれています
-  - ゲーム起動時にエラーが出るかもしれませんがプレイには支障ないでしょう
+スランボのDefに対してパッチを当てるMod全般と競合の可能性があります
 
-## Acknowledgment, reference (謝辞・参考) 
+## NOTICE
 
-- [Cleaner Thrumbos 1.4](https://steamcommunity.com/sharedfiles/filedetails/?id=2932159750)
-- [Thrumbo Husbandry](https://steamcommunity.com/sharedfiles/filedetails/?id=2208985736)
-- [Thrumbo Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=859466666)
-  - 変更内容の元ネタはこれらのMODです
-- [虫娘 Insect Girls](https://steamcommunity.com/sharedfiles/filedetails/?id=2451340446)
-  - VEFを用いた遠距離攻撃の実装を参考にしました
+本Modは [BSD 3-Clause “New” or “Revised” License](LICENSE) で提供されています。
 
-## LICENSE
-
-スランボの遠距離攻撃画像には [ICOON MONO](https://icooon-mono.com/) の [星アイコン8](https://icooon-mono.com/14623-%E6%98%9F%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B38/) を使用しています。
+謝辞および使用している素材・ライブラリは [NOTICE.md](NOTICE) に記載してあります。
 
 ## CONTRIBUTING
 
-[リポジトリに対する各種貢献についての指針](https://github.com/piet-rian/.github/blob/main/CONTRIBUTING.md) および
-[LICENSE](LICENSE) を参照の上でお願いします。
+[リポジトリに対する各種貢献についての指針](https://github.com/piet-rian/.github/blob/main/CONTRIBUTING.md) を参照した上でお願いします。
