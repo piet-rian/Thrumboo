@@ -10,8 +10,8 @@
         <thingClass>Projectile_Explosive</thingClass>
         <projectile>
             <damageDef>Bomb</damageDef>
-            <speed>50</speed>
-            <explosionRadius>2.9</explosionRadius>
+            <speed>77</speed>
+            <explosionRadius>0.9</explosionRadius>
             <flyOverhead>true</flyOverhead>
             <soundHitThickRoof>Artillery_HitThickRoof</soundHitThickRoof>
             <soundExplode>MortarBomb_Explode</soundExplode>
