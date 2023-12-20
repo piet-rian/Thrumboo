@@ -28,7 +28,7 @@
 
 本Modは [BSD 3-Clause “New” or “Revised” License](LICENSE) で提供されています。
 
-謝辞および使用している素材・ライブラリは [NOTICE.md](NOTICE) に記載してあります。
+謝辞および使用している素材・ライブラリは [NOTICE.md](NOTICE.md) に記載してあります。
 
 ## CONTRIBUTING
 
