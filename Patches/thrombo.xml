@@ -2,7 +2,7 @@
 <Patch>
     <!-- be packed animal -->
     <Operation Class="PatchOperationAdd">
-        <xpath>/Defs/ThingDef[defName = "Thrumbo"]/race</xpath>
+        <xpath>Defs/ThingDef[defName = "Thrumbo"]/race</xpath>
         <value>
             <packAnimal>true</packAnimal>
         </value>
@@ -10,7 +10,7 @@
 
     <!-- be clean -->
     <Operation Class="PatchOperationReplace">
-        <xpath>/Defs/ThingDef[defName="Thrumbo"]/statBases/FilthRate</xpath>
+        <xpath>Defs/ThingDef[defName="Thrumbo"]/statBases/FilthRate</xpath>
         <value>
             <FilthRate>1</FilthRate>
         </value>
@@ -19,7 +19,7 @@
 
     <!-- be wet -->
     <Operation Class="PatchOperationAdd">
-        <xpath>/Defs/ThingDef[defName="Thrumbo"]/statBases</xpath>
+        <xpath>Defs/ThingDef[defName="Thrumbo"]/statBases</xpath>
         <value>
             <Flammability>0.3</Flammability>
         </value>
@@ -27,7 +27,7 @@
 
     <!-- be ranged -->
     <Operation Class="PatchOperationAdd">
-        <xpath>/Defs/ThingDef[defName="Thrumbo"]</xpath>
+        <xpath>Defs/ThingDef[defName="Thrumbo"]</xpath>
         <value>
             <verbs>
                 <li>
